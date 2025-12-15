@@ -3,12 +3,6 @@
 A modern and responsive educational website built using **HTML5**, **CSS3**, and **Bootstrap 5**.  
 This project is designed as a frontend practice project focusing on layout design, responsiveness, and UI components.
 
----
-
-## 🚀 Live Preview
-👉 *(Optional)* Add your live site link here  
-
-
 ## ✨ Features
 
 - Responsive navigation bar  
@@ -28,6 +22,11 @@ This project is designed as a frontend practice project focusing on layout desig
 - **Bootstrap 5** – Responsive design & UI components  
 - **Font Awesome** – Icons  
 - **Google Fonts (Poppins)** – Typography  
+
+---
+## 🌐 Live Preview
+
+> *(Optional)* You can host this project on [Eschool Demo Website](https://eschool-web-demo.netlify.app/) and place the link here.
 
 ---
 ## 📱 Responsive Design
